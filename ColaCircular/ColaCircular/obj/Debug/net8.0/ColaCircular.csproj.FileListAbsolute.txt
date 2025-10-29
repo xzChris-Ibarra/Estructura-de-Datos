@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\bin\Debug\net8.0\ColaCircular.exe
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\bin\Debug\net8.0\ColaCircular.deps.json
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\bin\Debug\net8.0\ColaCircular.runtimeconfig.json
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\bin\Debug\net8.0\ColaCircular.dll
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\bin\Debug\net8.0\ColaCircular.pdb
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\obj\Debug\net8.0\ColaCircular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\obj\Debug\net8.0\ColaCircular.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\obj\Debug\net8.0\ColaCircular.AssemblyInfo.cs
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\obj\Debug\net8.0\ColaCircular.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\obj\Debug\net8.0\ColaCircular.dll
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\obj\Debug\net8.0\refint\ColaCircular.dll
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\obj\Debug\net8.0\ColaCircular.pdb
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\obj\Debug\net8.0\ColaCircular.genruntimeconfig.cache
+C:\Users\chris\source\repos\ColaCircular\ColaCircular\obj\Debug\net8.0\ref\ColaCircular.dll
