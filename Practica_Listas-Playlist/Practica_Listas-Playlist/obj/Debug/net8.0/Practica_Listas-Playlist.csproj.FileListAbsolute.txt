@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\bin\Debug\net8.0\Practica_Listas-Playlist.exe
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\bin\Debug\net8.0\Practica_Listas-Playlist.deps.json
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\bin\Debug\net8.0\Practica_Listas-Playlist.runtimeconfig.json
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\bin\Debug\net8.0\Practica_Listas-Playlist.dll
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\bin\Debug\net8.0\Practica_Listas-Playlist.pdb
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\obj\Debug\net8.0\Practica_Listas-Playlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\obj\Debug\net8.0\Practica_Listas-Playlist.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\obj\Debug\net8.0\Practica_Listas-Playlist.AssemblyInfo.cs
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\obj\Debug\net8.0\Practica_Listas-Playlist.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\obj\Debug\net8.0\Practica_Listas-Playlist.dll
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\obj\Debug\net8.0\refint\Practica_Listas-Playlist.dll
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\obj\Debug\net8.0\Practica_Listas-Playlist.pdb
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\obj\Debug\net8.0\Practica_Listas-Playlist.genruntimeconfig.cache
+C:\Users\chris\source\repos\Practica_Listas-Playlist\Practica_Listas-Playlist\obj\Debug\net8.0\ref\Practica_Listas-Playlist.dll
