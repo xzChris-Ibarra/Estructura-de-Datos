@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\bin\Debug\net8.0\Lista_Enlazada_Polinomios.exe
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\bin\Debug\net8.0\Lista_Enlazada_Polinomios.deps.json
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\bin\Debug\net8.0\Lista_Enlazada_Polinomios.runtimeconfig.json
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\bin\Debug\net8.0\Lista_Enlazada_Polinomios.dll
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\bin\Debug\net8.0\Lista_Enlazada_Polinomios.pdb
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\obj\Debug\net8.0\Lista_Enlazada_Polinomios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\obj\Debug\net8.0\Lista_Enlazada_Polinomios.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\obj\Debug\net8.0\Lista_Enlazada_Polinomios.AssemblyInfo.cs
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\obj\Debug\net8.0\Lista_Enlazada_Polinomios.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\obj\Debug\net8.0\Lista_Enlazada_Polinomios.dll
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\obj\Debug\net8.0\refint\Lista_Enlazada_Polinomios.dll
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\obj\Debug\net8.0\Lista_Enlazada_Polinomios.pdb
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\obj\Debug\net8.0\Lista_Enlazada_Polinomios.genruntimeconfig.cache
+C:\Users\chris\source\repos\Lista_Enlazada_Polinomios\Lista_Enlazada_Polinomios\obj\Debug\net8.0\ref\Lista_Enlazada_Polinomios.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lista_Enlazada_Polinomios/1.0.0": {
+        "runtime": {
+          "Lista_Enlazada_Polinomios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista_Enlazada_Polinomios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
